@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m Yash
+- 👀 I’m interested in Gaming and Media Development
+- 🌱 I’m currently learning Game Programming and 3D Art
+- 📫 How to reach me: chudasamayash3004@gmail.com
+
 <!--
 **yashcb/yashcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
