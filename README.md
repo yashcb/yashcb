@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m Yash
-- 👀 I’m interested in Gaming and Media Development
-- 🌱 I’m currently learning Game Programming and 3D Art
+- 👀 I’m interested in AI / ML development
+- 🌱 I’m currently learning about LLM, GPT architecture, and Image recognization with help of Machine Learning
 - 📫 How to reach me: chudasamayash3004@gmail.com
 
 <!--
